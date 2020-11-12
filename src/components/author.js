@@ -10,7 +10,7 @@ const Author = () =>{
                      <div className="grid-child" id="author-contents">
 
                         <p>
-                        My life began in a very small rural town in Kentucky. The town was name Alexandria. We were one on those towns that had a main street with one drugstore, convenient store, gas station and one family doctor that still made house calls.
+                        My life began in a very small rural town in Kentucky. The town was named Alexandria. We were one on those towns that had a main street with one drugstore, convenient store, gas station and one family doctor that still made house calls. I had three sisters of which I was the one in the middle.
                         </p>
 
                         <h1 className="author-name-tag">

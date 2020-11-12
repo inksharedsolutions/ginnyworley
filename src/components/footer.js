@@ -23,7 +23,7 @@ const Footer = ()=>{
                         </h1>
 
                         <p>
-                            Ginny Worley loves to hear from readers. You can reach him via email. 
+                            Ginny Worley loves to hear from readers. You can reach his via email. 
                             Feel free to send questions about writing, his works, interviews 
                             and other publicity matters.
                         </p> 
