@@ -1,5 +1,5 @@
 import React from 'react'
-import AuthorImg from '../../static/author/dummy.png'
+import AuthorImg from '../../static/author/main_author.jpg'
 
 const Author = () =>{
     return(
@@ -10,7 +10,7 @@ const Author = () =>{
                      <div className="grid-child" id="author-contents">
 
                         <p>
-                            For a large part of her life, Ginny C. Worley struggled. Her life has been filled with a great deal of abuse and neglect. After years of fighting for her self-worth and very survival, she broke under the pressure. The hope that her life would improve was gone. Somehow though she managed to hang on, with help through therapeutic writing. Thoughts and feelings emerged from her soul, expressing themselves through her poetry. 
+                            For a large part of her life, Ginny C. Worley struggled. Her life has been filled with a great deal of abuse and neglect. After years of fighting for her self-worth and very survival, she broke under the pressure.
                         </p>
 
                         <h1 className="author-name-tag">

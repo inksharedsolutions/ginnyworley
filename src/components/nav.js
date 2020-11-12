@@ -45,7 +45,7 @@ const Nav = (props) =>{
 
 				<li>
 					<Link to="/about-the-author">
-						Author
+						About the Author
 					</Link>
 				</li>
 
@@ -57,7 +57,7 @@ const Nav = (props) =>{
 
 				<li>
 					<Link to="/about-the-book">
-						Book
+						About the Book
 					</Link>
 				</li>
 				

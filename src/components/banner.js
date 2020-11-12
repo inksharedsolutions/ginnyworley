@@ -12,7 +12,7 @@ const Banner = ()=>{
                             <div className="banner-text">
                     
                                 <h1>
-                                  POEMS FROM THE EDGES
+                                  POEMS FROM THE EDGE
                                 </h1>
 
                                 <p className="right-sub-text">
