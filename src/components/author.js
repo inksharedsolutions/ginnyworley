@@ -10,7 +10,7 @@ const Author = () =>{
                      <div className="grid-child" id="author-contents">
 
                         <p>
-                            For a large part of her life, Ginny C. Worley struggled. Her life has been filled with a great deal of abuse and neglect. After years of fighting for her self-worth and very survival, she broke under the pressure.
+                        My life began in a very small rural town in Kentucky. The town was name Alexandria. We were one on those towns that had a main street with one drugstore, convenient store, gas station and one family doctor that still made house calls.
                         </p>
 
                         <h1 className="author-name-tag">
